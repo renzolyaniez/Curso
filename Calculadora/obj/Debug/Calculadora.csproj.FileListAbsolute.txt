@@ -1,0 +1,14 @@
+C:\Carpeta Renzo\Curso .net core\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Carpeta Renzo\Curso .net core\Calculadora\bin\Debug\Calculadora.exe
+C:\Carpeta Renzo\Curso .net core\Calculadora\bin\Debug\Calculadora.pdb
+C:\Carpeta Renzo\Curso .net core\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Carpeta Renzo\Curso .net core\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Carpeta Renzo\Curso .net core\Calculadora\obj\Debug\Calculadora.exe
+C:\Carpeta Renzo\Curso .net core\Calculadora\obj\Debug\Calculadora.pdb
+C:\Carpeta Renzo\Curso .net core\Metodos y Funciones\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Carpeta Renzo\Curso .net core\Metodos y Funciones\Calculadora\bin\Debug\Calculadora.exe
+C:\Carpeta Renzo\Curso .net core\Metodos y Funciones\Calculadora\bin\Debug\Calculadora.pdb
+C:\Carpeta Renzo\Curso .net core\Metodos y Funciones\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Carpeta Renzo\Curso .net core\Metodos y Funciones\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Carpeta Renzo\Curso .net core\Metodos y Funciones\Calculadora\obj\Debug\Calculadora.exe
+C:\Carpeta Renzo\Curso .net core\Metodos y Funciones\Calculadora\obj\Debug\Calculadora.pdb
