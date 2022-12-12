@@ -15,7 +15,7 @@ namespace Calculadora
 
             do
             {
-                Console.WriteLine("Calculadoraaa\n");
+                Console.WriteLine("Calculadora\n");
                 Console.WriteLine("1- Suma\n2- Resta\n3- Multiplicación\n4- División\n5- Salir");
 
                 Console.WriteLine("Seleccione una operación:");
